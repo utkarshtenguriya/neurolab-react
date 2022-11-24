@@ -52,11 +52,13 @@ useEffect(() => {
  }, [todos])
   return (
     <>
+    
     <Header title = "My Todos List" searchBar={false}/>
     <AddTodos AddTodo = {AddTodo}></AddTodos>
     <Todos todos ={todos} onDelete ={onDelete}/>
    
     <Footer/>
+    
     </>
   );
 }
