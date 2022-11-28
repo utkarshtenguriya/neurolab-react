@@ -24,7 +24,22 @@ font-size: 18px;
 font-weight: bold;
 font-family: Montserrat;
 `
-
+export const WeatherIcons = {
+  "01d": "/neurolab-react/icons/sunny.svg",
+  "01n": "/neurolab-react/icons/night.svg",
+  "02d": "/neurolab-react/icons/day.svg",
+  "02n": "/neurolab-react/icons/cloudy-night.svg",
+  "03d": "/neurolab-react/icons/cloudy.svg",
+  "03n": "/neurolab-react/icons/cloudy.svg",
+  "04d": "/neurolab-react/icons/perfect-day.svg",
+  "04n": "/neurolab-react/icons/cloudy-night.svg",
+  "09d": "/neurolab-react/icons/rain.svg",
+  "09n": "/neurolab-react/icons/rain-night.svg",
+  "10d": "/neurolab-react/icons/rain.svg",
+  "10n": "/neurolab-react/icons/rain-night.svg",
+  "11d": "/neurolab-react/icons/storm.svg",
+  "11n": "/neurolab-react/icons/storm.svg",
+};
 
 
 function App() {
