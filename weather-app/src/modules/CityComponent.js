@@ -40,7 +40,7 @@ margin: 10px auto;
   const {updateCity,FetchWeather} = props;
   return (
     <>
-    <WeatherLogo src = "/icons/perfect-day.svg"/>
+    <WeatherLogo src = "/neurolab-react/icons/perfect-day.svg"/>
     <ChooseCityLabel>Find weather of your City</ChooseCityLabel>
     <SearchBox onSubmit = {FetchWeather}>
       <input placeholder="City" onChange={(e)=>updateCity(e.target.value)}/>
