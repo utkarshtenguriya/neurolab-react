@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neurolab-react/static/css/main.1843cf9e.css",
+    "main.js": "/neurolab-react/static/js/main.b8392489.js",
+    "static/js/787.d9312eb8.chunk.js": "/neurolab-react/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/neurolab-react/index.html",
+    "main.1843cf9e.css.map": "/neurolab-react/static/css/main.1843cf9e.css.map",
+    "main.b8392489.js.map": "/neurolab-react/static/js/main.b8392489.js.map",
+    "787.d9312eb8.chunk.js.map": "/neurolab-react/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1843cf9e.css",
+    "static/js/main.b8392489.js"
+  ]
+}
